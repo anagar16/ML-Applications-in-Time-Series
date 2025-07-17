@@ -57,7 +57,7 @@ Inspired by Tyralis & Papacharalampous (2017), we rigorously test the hypothesis
 | Box-Jenkins SARIMA     | 0.000042                  |
 | Random Forest (25%)    | 0.000047                  |
 
-### 🔍 Insight
+### Insight
 The **5% lag Random Forest** outperformed all competitors. Surprisingly, **smaller proportions of input data** led to better results, supporting the hypothesis that **model parsimony can outperform complexity when paired with intelligent subsetting**.
 
 ---
