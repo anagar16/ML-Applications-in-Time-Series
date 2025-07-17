@@ -39,7 +39,7 @@ Inspired by Tyralis & Papacharalampous (2017), we rigorously test the hypothesis
 
 ### 2. Box-Jenkins (Manual ARIMA/SARIMA)
 - ACF & PACF used to select ARIMA and SARIMAX model orders
-- Compared models using AIC and Ljung-Box residual diagnostics
+- Compared models using AIC, BIC, Ljung-Box residual diagnostics, Jarque Bera Statistics
 
 ### 3. Auto ARIMA
 - Automatically tuned via stepwise AIC optimization
