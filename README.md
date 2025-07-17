@@ -1,5 +1,5 @@
 # Forecasting Rainfall with Random Forests and Proportional Lag Subsetting  
-**PSTAT 274 Final Project — UC Santa Barbara**  
+**PSTAT 274+231 Final Project — UC Santa Barbara**  
 Adarsh Nagar | Brooks Piper
 
 ---
